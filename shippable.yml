@@ -17,7 +17,7 @@ env:
 install:
   - pip install -r requirements.txt
 
-#test
+#test pr
 # Make folders for the reports
 before_script:
   - mkdir -p shippable/testresults
