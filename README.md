@@ -1,7 +1,7 @@
 Python MongoDB Sample 
 =====================
 
-#test
+#test-oo
 Uses pymongo to test simple document insertion on a MongoDB instance.
 sample project
 
